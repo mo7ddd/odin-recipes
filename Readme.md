@@ -1,7 +1,2 @@
-I started learning html from the begging and until now i learned how to add 
-headlines
-paragraph
-link
-image
-list
-how to connect pages
+A simple project from The Odin Project to practice basic HTML.  
+It includes a main index page and several recipe pages.
